@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "synch.h": "c",
+        "flags.h": "c"
+    }
+}
